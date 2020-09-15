@@ -8,6 +8,7 @@
     justify-content: center;
     .photo{
         width: 450px;
+        height: 150px;
         transition: all 1s linear;
         @include mobile {
             width: 80%;

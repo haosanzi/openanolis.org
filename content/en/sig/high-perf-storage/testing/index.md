@@ -3,7 +3,7 @@ title: "io_uring 测试框架"
 aliases: "/alinux2/docs/Community"
 ---
 
-### io_uring-perf-test
+### perf-test-for-io_uring
 
 #### 项目介绍
 
@@ -59,10 +59,10 @@ Usage: round_write [OPTION...]
 
 
 - 相关文档
-  https://github.com/OpenAnolis/io_uring-perf-test/blob/master/README
+  https://github.com/OpenAnolis/perf-test-for-io_uring/blob/master/README.md
 
 
 
 #### 项目仓库
 
-https://github.com/OpenAnolis/io_uring-perf-test
+https://github.com/OpenAnolis/perf-test-for-io_uring

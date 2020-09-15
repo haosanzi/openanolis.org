@@ -118,7 +118,7 @@ server 和client 在同一台机器上。
 
 #### 项目仓库
 
-https://github.com/OpenAnolis/redis
+https://github.com/OpenAnolis/redis feat/io_uring
 
 ### nginx
 
@@ -207,4 +207,4 @@ http {
 
 #### 项目仓库
 
-https://github.com/OpenAnolis/nginx
+https://github.com/OpenAnolis/nginx feat/io_uring

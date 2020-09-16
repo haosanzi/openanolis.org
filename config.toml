@@ -71,7 +71,7 @@ weight = 8
 parent = "projects"
 identifier = "inclavare"
 name = "Inclavare Containers"
-url = "https://github.com/alibaba/inclavare-containers/"
+url = "https://inclavare-containers.io/"
 weight = 1
 [[languages.zh.menu.main]]
 parent = "projects"
